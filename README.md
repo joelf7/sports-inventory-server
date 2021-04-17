@@ -1,2 +1,2 @@
-# sport-inventory-server
+# sports-inventory-server
 Sport store inventory repo
