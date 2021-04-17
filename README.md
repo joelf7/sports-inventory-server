@@ -1,2 +1,4 @@
 # sports-inventory-server
-Sport store inventory repo
+Sports inventory server
+
+UI: https://github.com/joelf7/sports-inventory-ui
